@@ -23,6 +23,6 @@ In addition to that Handwritten Digit Clustering was also performed using K-Mean
 - NumPy
 
 ## Author
-Rose Maria Jose
-Batch:2025-2027
-Institute Name: Rajagiri College of Social Sciences
+- Rose Maria Jose
+- Batch:2025-2027
+- Institute Name: Rajagiri College of Social Sciences
