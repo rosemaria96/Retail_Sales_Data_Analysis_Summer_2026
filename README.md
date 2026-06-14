@@ -1,8 +1,8 @@
 # Retail_Sales_Data_Analysis_Summer_2026
 
 ## Project Description
-This project analyzes retail sales data using Python and Pandas. 
-In addition to that Handwritten Digit Clustering was also performed using K-Means on the MNIST Digits Dataset
+- This project analyzes retail sales data using Python and Pandas. 
+- In addition to that Handwritten Digit Clustering was also performed using K-Means on the MNIST Digits Dataset
 
 ## Analyses Performed
 - Data Cleaning
